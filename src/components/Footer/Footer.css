@@ -1,0 +1,17 @@
+.footer {
+  text-align: center;
+  margin: auto;
+  max-width: 80%;
+  border-top: 1px solid #989898;
+  padding: 15px 0;
+  font-size: 13px;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
